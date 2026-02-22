@@ -43,6 +43,11 @@ The dataset contains information about:
 ## Link Dataset
 https://www.kaggle.com/datasets/sanjanchaudhari/spotify-dataset
 
+## 📞 Kontak
+If you want to discuss Data Science or learn together, you can contact me via GitHub or DM. 🙂
+- 📷 Instagram: @raskywjy
+- 💼 LinkedIn: https://www.linkedin.com/in/rasky-wijaya-6235b1398/
+
 ---
 
 Created by: Rasky Wijaya
